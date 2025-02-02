@@ -44,11 +44,7 @@ npm install
 
 3️⃣ Get API Key from OpenWeatherMap
 
-Create a .env file in the root directory and add:
-
-API_URL = "https://api.openweathermap.org/data/2.5/weather"
-
-API_KEY = "a5a4cf1d2dd4a9b11500cb15d8757afa"
+https://openweathermap.org/api"
 
 4️⃣ Run the Application
 
